@@ -1,0 +1,14 @@
+Fourteen years later not a lot of this makes sense to me...
+----------------------------------------------------------------------
+
+Program to create conversion table?
+	extract all combos like ZTech
+	if performance is an issue, create a hash code for each combo
+		don't forget to compare actual combo data if hashes match
+	if no match is found, just insert __ into the table. Lets hope we dont need this. there is no more space for combos.
+
+ADD the new combo from ZeldaCombo.nes to the mountainneers toolkit file
+	(it is tile $EA/234)
+Copy ZeldaCombo, Remove extra combos, and recompress, and save it, create a new conversion table
+Combificator: Do NOT show message box on organizer for expanded combos; .Tag = Nothing
+

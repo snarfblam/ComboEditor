@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Comboficator">
+</Property><Property Name="Solution File" Value="D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Comboficator.sln">
+</Property><Property Name="User Options File" Value="D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Comboficator.suo">
+</Property><Property Name="Date" Value="Tuesday, June 04, 2013">
+</Property><Property Name="Time" Value="19:01 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Comboficator.sln" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Comboficator.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Comboficator.suo" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Comboficator.suo">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="Comboficator.vbproj" Description="Project file successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Comboficator.vbproj">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="Comboficator.vbproj.user" Description="Project user file successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Comboficator.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="AssemblyInfo.vb" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="ComboControl.vb" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\ComboControl.vb">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="Combos.vb" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Combos.vb">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="ComboTiles.vb" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\ComboTiles.vb">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="Converter.vb" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Converter.vb">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="frmConvert.vb" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\frmConvert.vb">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="frmMain.vb" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="Organizer.vb" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Organizer.vb">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="TableSelector.vb" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\TableSelector.vb">
+</Event><Event ErrorLevel="1" Project="Comboficator" Source="..\..\Games\Zelda.nes" Description="Backed up project may not build.  Project contains linked file: D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Zelda.nes">
+</Event><Event ErrorLevel="2" Project="Comboficator" Source="..\..\Games\Zelda.nes" Description="Failed to backup file as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Zelda.nes">
+</Event><Event ErrorLevel="1" Project="Comboficator" Source="..\..\Games\ZeldaCombo.nes" Description="Backed up project may not build.  Project contains linked file: D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\ZeldaCombo.nes">
+</Event><Event ErrorLevel="2" Project="Comboficator" Source="..\..\Games\ZeldaCombo.nes" Description="Failed to backup file as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\ZeldaCombo.nes">
+</Event><Event ErrorLevel="2" Project="Comboficator" Source="Todo.txt" Description="Failed to backup file as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Todo.txt">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="Zelda T.nes" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Zelda T.nes">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="Layout256.ico" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Layout256.ico">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="ComboControl.resx" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\ComboControl.resx">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="Converter.resx" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Converter.resx">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="frmConvert.resx" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\frmConvert.resx">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="frmMain.resx" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="Organizer.resx" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Organizer.resx">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="TableSelector.resx" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\TableSelector.resx">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="Tiles.bmp" Description="File successfully backed up as D:\VS\Visual Studio Projects\Visual Studio Projects\Comboficator\Backup\Tiles.bmp">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="Comboficator.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Comboficator" Source="Comboficator.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Comboficator.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Comboficator.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Comboficator" Source="Comboficator.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
