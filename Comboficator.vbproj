@@ -1,7 +1,7 @@
 ﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectType>Local</ProjectType>
-    <ProductVersion>8.0.30729</ProductVersion>
+    <ProductVersion>9.0.21022</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{16E9C743-1F18-451D-8846-73FB1B456A88}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -146,14 +146,8 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Tiles.bmp" />
     <Content Include="Layout256.ico" />
-    <None Include="..\..\Games\Zelda.nes">
-      <Link>Zelda.nes</Link>
-    </None>
-    <None Include="..\..\Games\ZeldaCombo.nes">
-      <Link>ZeldaCombo.nes</Link>
-    </None>
+    <None Include="README.md" />
     <None Include="Todo.txt" />
-    <None Include="Zelda T.nes" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
   <PropertyGroup>

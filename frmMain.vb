@@ -172,6 +172,7 @@ Public Class frmMain
         '
         Me.MenuItem3.Index = 6
         Me.MenuItem3.Text = "Temp"
+        Me.MenuItem3.Visible = False
         '
         'MenuItem1
         '
@@ -238,7 +239,7 @@ Public Class frmMain
         Me.picTiles.Dock = System.Windows.Forms.DockStyle.Left
         Me.picTiles.Location = New System.Drawing.Point(0, 0)
         Me.picTiles.Name = "picTiles"
-        Me.picTiles.Size = New System.Drawing.Size(22, 407)
+        Me.picTiles.Size = New System.Drawing.Size(22, 387)
         Me.picTiles.TabIndex = 0
         '
         'ComboHighlight
@@ -258,7 +259,7 @@ Public Class frmMain
         Me.scrTiles.Location = New System.Drawing.Point(22, 0)
         Me.scrTiles.Maximum = 11
         Me.scrTiles.Name = "scrTiles"
-        Me.scrTiles.Size = New System.Drawing.Size(17, 407)
+        Me.scrTiles.Size = New System.Drawing.Size(17, 387)
         Me.scrTiles.TabIndex = 1
         '
         'picSource
@@ -344,7 +345,7 @@ Public Class frmMain
         'frmMain
         '
         Me.AutoScaleBaseSize = New System.Drawing.Size(5, 13)
-        Me.ClientSize = New System.Drawing.Size(176, 407)
+        Me.ClientSize = New System.Drawing.Size(176, 387)
         Me.Controls.Add(Me.picComboPreview)
         Me.Controls.Add(Me.picSrc)
         Me.Controls.Add(Me.picSelection)
